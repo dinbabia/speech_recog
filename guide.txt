@@ -1,0 +1,26 @@
+This is an old, simple, and test project.
+
+"""
+pip install speeechrecognition
+pip install pyaudio
+https://pypi.org/project/SpeechRecognition/
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio  
+pip install python_wheels\PyAudio-0.2.11-cp310-cp310-win_amd64.whl 
+
+
+pip install gTTS
+pip install playsound==1.2.2
+pip install PyObjC
+"""
+
+
+new_record.py
+
+pip isntall pyaudio
+pip isntall wave
+
+
+
+------------------------------
+py src/app.py (interact with alexa or users)
+py src/new_record.py (new recording)
